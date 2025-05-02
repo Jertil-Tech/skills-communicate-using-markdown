@@ -8,3 +8,8 @@ This is to show how code blocks work.
 ```javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] This is an example of the list item
+- [ ] I did not know that once you type in one list item it generates another box
+- [ ] Just adding one more item
+- [ ] List is the hyphen space open square bracket space closed square bracket space list item.
