@@ -7,3 +7,6 @@
 
 
 this is to test the different headers and learning markdown. 
+
+
+![Image of Yaktocat}(https://octodex.github.com/images/yaktocat.png)
